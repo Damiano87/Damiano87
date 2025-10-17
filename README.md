@@ -39,7 +39,8 @@ Full stack developer passionate about React.js, Next.js and Node.js. I've been b
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damiano87/Damiano87/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damiano87/Damiano87/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Damiano87/Damiano87/output/pacman-contribution-graph.svg">
+  
+<img src="https://raw.githubusercontent.com/Damiano87/Damiano87/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
