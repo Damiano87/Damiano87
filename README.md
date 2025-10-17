@@ -48,7 +48,7 @@ Full stack developer passionate about React.js, Next.js and Node.js. I've been b
 View my projects:
 
 <p>Yamaha Store:</p>
-  <p>https://yamahashop.onrender.com</p>
+  <a target="_blank">https://yamahashop.onrender.com</a>
 <p>Furniture store:</p>
   <p>https://h-furniture-store.onrender.com</p>
 <p>Smart Home Dashboard:</p>
