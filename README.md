@@ -1,13 +1,13 @@
 <p align="left">## 👋 Cześć!
 
-Front-end developer z pasją do React.js i Next.js. 
+Full-stack developer z pasją do React.js i Next.js. 
 Od 3 lat buduję aplikacje webowe, ucząc się najlepszych praktyk 
 i nowoczesnych technologii.</p>
 
 
 <p align="left"> Hi!
 
-Front-end developer passionate about React.js and Next.js. I've been building web applications for 3 years, learning best practices and modern technologies along the way.</p>
+Full stack developer passionate about React.js and Next.js. I've been building web applications for 3 years, learning best practices and modern technologies along the way.</p>
 ###
 
 <p align="left">I code with:</p>
