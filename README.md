@@ -44,3 +44,12 @@ Full stack developer passionate about React.js, Next.js and Node.js. I've been b
 </picture>
 
 ###
+
+View my projects:
+
+Yamaha Store: 
+  https://yamahashop.onrender.com
+Furniture store: 
+  https://h-furniture-store.onrender.com
+Smart Home Dashboard: 
+  https://smart-home-dashboard-swart.vercel.app
