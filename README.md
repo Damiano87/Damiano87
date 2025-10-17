@@ -1,4 +1,8 @@
-<p align="left">Hi! My name is Damian.</p>
+<p align="left">## 👋 Cześć!
+
+Front-end developer z pasją do React.js i Next.js. 
+Od 3 lat buduję aplikacje webowe, ucząc się najlepszych praktyk 
+i nowoczesnych technologii..</p>
 
 ###
 
