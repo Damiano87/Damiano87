@@ -47,9 +47,9 @@ Full stack developer passionate about React.js, Next.js and Node.js. I've been b
 
 View my projects:
 
-Yamaha Store: 
-  https://yamahashop.onrender.com
-Furniture store: 
-  https://h-furniture-store.onrender.com
-Smart Home Dashboard: 
-  https://smart-home-dashboard-swart.vercel.app
+<p>Yamaha Store:</p>
+  <p>https://yamahashop.onrender.com</p>
+<p>Furniture store:</p>
+  <p>https://h-furniture-store.onrender.com</p>
+<p>Smart Home Dashboard:</p>
+  <p>https://smart-home-dashboard-swart.vercel.app</p>
