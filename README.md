@@ -5,7 +5,7 @@ Od 3 lat buduję aplikacje webowe, ucząc się najlepszych praktyk
 i nowoczesnych technologii.</p>
 
 
-<p align="left"> Hi!
+<p align="left">## 👋 Hi!
 
 Full stack developer passionate about React.js, Next.js and Node.js. I've been building web applications for 3 years, learning best practices and modern technologies along the way.</p>
 ###
